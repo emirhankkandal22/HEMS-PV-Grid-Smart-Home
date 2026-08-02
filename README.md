@@ -36,3 +36,13 @@ The system features a hybrid microgrid architecture prioritizing solar energy an
 
 ```text
 ├── HEMS_PV_Grid_Graduation_Project.zip   # Complete package containing Arduino, MATLAB/Simulink, DipTrace & Docs
+## 📸 System Overview & Hardware
+
+![System Diagram](System-Diagram.jpg)
+*Figure 1: System schematic diagram.*
+
+![Hardware Components](System-Main-Components.jpg)
+*Figure 2: Main electronic components and custom PCBs.*
+
+![Physical Prototype](System-image.jpg)
+*Figure 3: Final integrated physical hardware setup.*
