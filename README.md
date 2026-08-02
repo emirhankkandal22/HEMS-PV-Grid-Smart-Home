@@ -43,8 +43,4 @@ The system features a hybrid microgrid architecture prioritizing solar energy an
 ![System Diagram](System-Diagram.jpg)
 *Figure 1: System schematic diagram.*
 
-![Hardware Components](System%20Main%20Components.jpg)
-*Figure 2: Main electronic components and custom PCBs.*
 
-![Physical Prototype](System%20İmage.jpg)
-*Figure 3: Final integrated physical hardware setup.*
