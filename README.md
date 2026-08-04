@@ -43,4 +43,10 @@ The system features a hybrid microgrid architecture prioritizing solar energy an
 ![System Diagram](System-Diagram.jpg)
 *Figure 1: System schematic diagram.*
 
+![DipTrace Main Schematic](diptrace-home-schematic.jpg.png)
+*Figure 4: DipTrace main system and smart home control schematic (`Sema_EV.dch`).*
+
+![DipTrace Solar Charger PCB Layout](diptrace-solar-charger-pcb.jpg.png)
+*Figure 5: DipTrace custom PCB layout for the solar charging module (`SOLAR_SARJ.dip`).*
+
 
